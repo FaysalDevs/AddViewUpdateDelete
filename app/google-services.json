@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533094193245",
+    "firebase_url": "https://update-delete-from-firebase.firebaseio.com",
+    "project_id": "update-delete-from-firebase",
+    "storage_bucket": "update-delete-from-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533094193245:android:e7fbd6d1c56b920fbbd5b4",
+        "android_client_info": {
+          "package_name": "com.advance.updatedeletefromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533094193245-15ctt1detao5f2cbb4fub8mcdvruk29c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.advance.updatedeletefromfirebase",
+            "certificate_hash": "d1db7886c9da4f24afd6825a8aa8fac5ebb6123b"
+          }
+        },
+        {
+          "client_id": "533094193245-j3n1n927mhk7afq7284ebbi6t6hgc1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPWLG0-lcNKO9tByPxS5FOgcOKe9ulDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533094193245-j3n1n927mhk7afq7284ebbi6t6hgc1te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
